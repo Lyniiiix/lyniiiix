@@ -23,7 +23,6 @@
 
 <h3> Find me here </h3>
 <p>
- <a href="https://github.com/Lyniiiix" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-  badge&amp;logo=github" alt="GitHub - Lyniiiix"></a>
  <a href="https://www.linkedin.com/in/can-ali/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn - Ali Can"></a>
  <a href="https://www.reddit.com/user/Awesome_Lyniiiix" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&logoColor=white" alt="Reddit - Lyniiiix"></a>
  <a href="https://www.twitter.com/lyniiiix/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter - Lyniiiix"></a>
