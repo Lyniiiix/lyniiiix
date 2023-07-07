@@ -21,26 +21,6 @@
  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-<h3>I'm currently working on</h3>
-<p>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🚧 Projects</b></td>
-      <td><b>🚩 Status</b></td>
-      <td><b>🖹 Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/lyniiiix/3il_edt" target="_blank"><b>3iL EDT</b></a></td>
-      <td>🟢 Published</td>
-      <td>TS Library to scrap my school timetable and convert to iCalendar with Web API</td>
-    </tr>
-  </tbody>
-</table>
-</p>
-
 <h3> Find me here </h3>
 <p>
  <a href="https://github.com/Lyniiiix" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-  badge&amp;logo=github" alt="GitHub - Lyniiiix"></a>
