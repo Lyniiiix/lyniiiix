@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lyniiiix](https://github.com/Lyniiiix)
 
-- 📝 I regularly write articles on [https://github.com/Lyniiiix](https://github.com/Lyniiiix)
-
 - 💬 Ask me about **Node.JS, TypeScript and Python**
 
 - 📫 How to reach me **dev@can-ali.fr**
