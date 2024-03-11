@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Node.JS, TypeScript and Java**.
 
-- 📫 How to reach me **[dev@can-ali.fr](mailto:dev@can-ali/fr)**.
+- 📫 How to reach me **[dev@can-ali.fr](mailto:dev@can-ali.fr)**.
 
 - 📎 You can view my CV [here](https://can-ali.fr/cv/).
 
