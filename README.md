@@ -10,40 +10,41 @@
 
 <br>
 
-🛠️ **Specializing in Innovative SaaS and Full Stack Development**
 
-👋 **Welcome to my GitHub profile!**
+### Profile Summary
 
-🎓 I am a second-year preparatory student at 3iL Ingénieurs, passionate about computer science and specializing in creating and developing innovative SaaS solutions, from MVP to production. I'm also involved in entrepreneurship within SaaS and software engineering, with a keen interest in next-gen solutions, particularly those incorporating AI.
+**👋 Welcome to my GitHub profile!**
 
-🚀 **Skills and Technologies:**
-As a Full Stack developer, I excel in web applications, mastering "new-gen" stacks like NextJS, NodeJS, and TypeScript. I also specialize in DevSecOps, ensuring secure and efficient development practices.
+I am a second-year preparatory student at 3iL Ingénieurs, specializing in innovative SaaS and full stack development. My expertise ranges from MVP creation to production, with a strong focus on incorporating AI into next-gen solutions. 
 
-🌍 **Civic and Student Engagement:**
-I volunteer with various associations, support open-source projects, and participate in initiatives to promote my school (student associations, activities, ambassador programs). I believe in the importance of these commitments in an ever-evolving world, addressing the needs of our society and environment. I strive to develop solutions that are fair and environmentally respectful.
+**🚀 Skills and Technologies:**
+- Full Stack Development: Proficient in NextJS, NodeJS, and TypeScript.
+- DevSecOps: Ensuring secure and efficient development practices.
 
-💼 **Social and Ethical Aspects:**
-Committed to social and ethical aspects, I develop innovative, moral, and socially responsible solutions. I ensure my projects adhere to high ethical standards, embrace humanistic values, and serve the greater good, positively contributing to society.
+**🌍 Civic and Student Engagement:**
+- Volunteering with various associations.
+- Supporting open-source projects.
+- Promoting my school through student associations and ambassador programs.
+- Developing fair and environmentally respectful solutions.
 
-🤝 **Professional Engagement:**
-I am seeking new opportunities to apply my Full Stack development skills and SaaS creation expertise. If you share my vision or are considering collaboration, please contact me.
+**💼 Social and Ethical Aspects:**
+- Committed to creating innovative, moral, and socially responsible solutions.
+- Projects adhere to high ethical standards and humanistic values, benefiting society.
 
-📧 **Contact:** [dev@can-ali.fr](mailto:dev@can-ali.fr)
+**🤝 Professional Engagement:**
+- Seeking new opportunities to apply Full Stack development skills and SaaS expertise.
+- Open to collaboration.
 
-📎 **You can view my CV [here](https://can-ali.fr/cv/).**
+**📧 Contact:**
+- Email: dev@can-ali.fr
+- [View my CV](https://can-ali.fr/cv/)
+
+Feel free to reach out if you share my vision or are interested in collaboration!
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
   <a href="/" target="blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="/" target="blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="/" target="blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
   <a href="/" target="blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 </div>
 
