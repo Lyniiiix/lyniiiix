@@ -47,3 +47,8 @@
     
   </div>
 </div>
+
+<div align="center">
+  <h2 align="left">🎶 Music Stats</h2>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=otywrywx8mhdbr487al2bxl5c&unique=true">
+</div>
