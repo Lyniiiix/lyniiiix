@@ -6,8 +6,6 @@
   <p>🚀 Full-Stack Developer skilled in Next.js, Node.js, and TypeScript. I focus on Agile project management and DevSecOps for secure & scalable development.</p>
 
   <p>🌍 Involved in volunteering, open-source, and educational initiatives, aiming to build sustainable solutions with positive impact.</p>
-  
-  <a href="mailto:pro@can-ali.fr">📩 pro@can-ali.fr</a>
 </div>
 
 ---
