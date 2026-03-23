@@ -3,7 +3,7 @@
 
   <p>
     <b>Computer Engineering Student</b> — 3iL Ingénieurs<br/>
-    <b>V&V Methods Engineering Apprentice</b> — Instrumentation & Control
+    <b>V&V Methods Engineering Apprentice</b> — Framatome (Instrumentation & Control)
   </p>
 
   <p>
